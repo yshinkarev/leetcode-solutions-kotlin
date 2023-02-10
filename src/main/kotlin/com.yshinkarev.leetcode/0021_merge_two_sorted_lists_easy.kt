@@ -3,7 +3,7 @@ package com.yshinkarev.leetcode
 /**
  * https://leetcode.com/problems/merge-two-sorted-lists
  */
-class `0021_merge_two_sorted_lists` {
+class `0021_merge_two_sorted_lists_easy` {
 
     class ListNode(var `val`: Int) {
         var next: ListNode? = null
